@@ -74,7 +74,7 @@ h3{
     }
     /* section2 */
     .intro{
-        background-image: url(/Img/back2.jpg);
+        background: url(../Img/back2.jpg) no-repeat center;
         background-color: #333;
         background-blend-mode:multiply;
 
@@ -232,7 +232,7 @@ h3{
 -------------------------------------------------- */
 @media (min-width:768px){
     .intro{
-        background: url(/Img/back2.jpg) no-repeat center;
+        background: url(../Img/back2.jpg) no-repeat center;
         background-size: cover;
         background-blend-mode: multiply;
         background-color: #333;
@@ -401,7 +401,7 @@ h3{
         width: 180px;
     }
     .intro{
-        background: url(/Img/back2.jpg) no-repeat center;
+        background: url(../Img/back2.jpg) no-repeat center;
         background-size: cover;
         background-blend-mode: multiply;
         background-color: #333; 
@@ -434,7 +434,7 @@ h3{
 -------------------------------------------------- */
 @media (min-width: 1230px){
     .intro{
-        background: url(/Img/back2.jpg) no-repeat center;
+        background: url(../Img/back2.jpg) no-repeat center;
         background-size: cover;
         background-blend-mode: multiply;
         background-color: #333; 
