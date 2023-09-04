@@ -433,6 +433,12 @@ h3{
                 min-width: 1230px
 -------------------------------------------------- */
 @media (min-width: 1230px){
+    .intro{
+        background: url(/Img/back2.jpg) no-repeat center;
+        background-size: cover;
+        background-blend-mode: multiply;
+        background-color: #333; 
+    }
 
     .nav-header .main-logo{
         width: 10em;
